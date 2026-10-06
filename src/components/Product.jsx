@@ -9,6 +9,8 @@ const Product = ({
   image,
   onAddToCart,
 }) => {
+
+  
   return (
     <li className="product">
       <div className="product-image">
