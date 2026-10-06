@@ -1,0 +1,21 @@
+.title{
+  color: #007acc;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+}
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.product{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 1rem;
+  width: 200px;
+  text-align: center;
+}
